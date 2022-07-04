@@ -16,6 +16,7 @@
         <li> 💬 Ask me about <i>python, bert, haskell, julia, motorcycles, dogs and cooking</i>
         <li> 📫 How to reach me <a href="mailto:singh@diwank.name">singh@diwank.name</a>
         <li> 📄 Know about my experiences <a href="https://diwank.name/resume.pdf">in my resume</a>
+        <li> 🤗 You can find my huggingface models on <a href="https://huggingface.co/diwank"> my HF hub profile </a>
       </ul>
     </td>
     <td>
