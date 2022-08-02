@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Diwank</h1>
-<h3 align="center">NLU practitioner. W15 Recurser. Mozilla WebFWD Fellow. Dog person</h3>
+<h3 align="center">ML/AI. W15 Recurser. Thiel Fellow. Dog person</h3>
 <p align=center>
   <a href="https://facebook.com/diwank.singh"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a> 
   <a href="https://linkedin.com/in/diwank-tomer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
