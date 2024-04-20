@@ -11,7 +11,8 @@
   <tr>
     <td>
       <ul>
-        <li> 🔭 I’m currently hacking on <a href="https://deck.rocks">deck.rocks</a> (<a href="https://github.com/creatorrr/deck.rocks">repo</a>)
+        <li> Currently working on <a href="https://julep.ai">Julep AI</a> -- an <a href="https://github.com/julep-ai/julep">open-source</a> platform for building stateful AI apps
+        <li> 🔭 I created <a href="https://deck.rocks">deck.rocks</a> (<a href="https://github.com/creatorrr/deck.rocks">repo</a>)
         <li> 🌱 I’m currently learning <b>HuggingFace diffusers</b>
         <li> 💬 Ask me about <i>python, bert, haskell, julia, motorcycles, dogs and cooking</i>
         <li> 📫 How to reach me <a href="mailto:singh@diwank.name">singh@diwank.name</a>
